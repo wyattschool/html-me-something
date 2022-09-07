@@ -1,0 +1,19 @@
+body{
+    margin-left: 5%;margin-right: 5%;margin-top: 2%;
+}
+
+p{
+    text-indent:5%;padding:1%;
+}
+
+#TheBoy{
+    color:blue;
+}
+
+#ThePlanet{
+    color:green;
+}
+
+.footer p{
+    margin-top:5pt;margin-bottom: 5pt; padding: 0%;text-indent: 0%;
+}
